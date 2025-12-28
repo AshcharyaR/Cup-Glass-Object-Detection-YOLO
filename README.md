@@ -1,6 +1,7 @@
 YOLO Cup/Glass Object Detection
 This project trains a YOLOv5 model to detect cups and glasses in images using a custom dataset from Roboflow. The notebook runs in Google Colab with GPU acceleration.
-​
+
+https://colab.research.google.com/drive/1P1uOEIN61chrzNSEzFzE3u363bGHCOIQ​
 
 Features
 Detects two classes: cup and glass.
