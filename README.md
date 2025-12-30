@@ -41,7 +41,7 @@ Training Command
 text
 !python train.py --img 416 --batch 32 --epochs 100 --data datasets/My-First-Project-2/data.yaml --weights yolov5s.pt --cache
 Runs on Tesla T4 GPU with PyTorch 2.8.0+cu126.
-​
+ ​
 
 Inference Examples
 Test on dataset images: Successfully detects cups/glasses with conf 0.1.
